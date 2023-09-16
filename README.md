@@ -1,2 +1,2 @@
-# megha
-this is demo git repository
+# Megha Agarwal
+this is a demo git repository
